@@ -1,0 +1,41 @@
+/* 
+Color Palette 
+-------------
+Primary Color: #C1A29E
+Secondary Color: #F5D8C1
+Accent Color: #8C4D45
+
+Typography
+----------
+Headlines: font-family: 'Abril Fatface', cursive;
+Body Copy: font-family: 'Merriweather', serif;
+
+Background
+----------
+Color: #F7F4E8
+*/
+
+/* Global or Sitewide */
+body {
+     background: #F7F4E8;   
+}
+
+/* Typography */
+
+h1,
+h2 {
+    font-family: 'Abril Fatface', cursive;
+    color: #8C4D45;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+p, 
+blockquote {
+    font-family: 'Merriweather', serif;
+    font-size: 1.15em;
+    line-height: 1.5em
+}
+
+/* Navigation */
+
